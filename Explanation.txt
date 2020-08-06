@@ -1,0 +1,48 @@
+You are given with a positive integer N, break the given N into at least two positive integers which gives the sum of the N 
+maximize the product of those integers, print the maximize product of those integers.
+
+Input Description:
+N an integer (1<N<1000)
+
+Output Description:
+print the maximize product of those integers
+
+Sample Input:
+10
+
+Sample Output:
+36
+
+Explanation:
+10 can breaked into, 3,3,4
+3+3+4=10, 3*3*4=36
+
+Sample Input:
+34
+
+Sample Output:
+236196
+
+Sample Input:
+17
+
+Sample Output:
+486
+
+Sample Input:
+23
+
+Sample Output:
+4374
+
+Sample Input:
+32
+
+Sample Output:
+118098
+
+Sample Input:
+999
+
+Sample Output:
+760988023132059809720425867265032780727896356372077865117010037035791631439306199613044145649378522557935351570949952010001833769302566531786879537190794573523
